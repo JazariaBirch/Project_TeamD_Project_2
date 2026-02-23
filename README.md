@@ -44,10 +44,6 @@ Total batch volume = 27 ft³ (1 cubic yard)
 
 ---
 
-#Program Structure
-
-The script contains:
-
 ## Defined Constants
 Unit weight of water
 Cubic yard volume
